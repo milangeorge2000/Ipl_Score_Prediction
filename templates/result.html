@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="{{url_for('static', filename='iplr.css')}}">
+        <title>Ipl Score Prediction</title>
+    </head>
+    <style> 
+   body {
+  background-image: url('static/background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#o1{
+    padding-left: 550px;
+}
+h1{
+    color: gray;
+    padding-left: 550px;
+}
+    </style>
+    
+    <body>
+        <div class="final" >
+        
+        <img id="o1" src="{{url_for('static', filename='images.jpg')}}" width="500" height="300" >
+        
+       
+        <h1>The Score will be between {{lower_limit}} and {{upper_limit}}</h1>
+
+    </div>
+    </body>
+
+    </html>
