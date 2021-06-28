@@ -17,7 +17,7 @@
 
 
 ## Demo
-[![](https://github.com/milangeorge2000/Mammootty_Mohanlal_Classifier/blob/main/static/ee575888-1427-410c-8d68-c41bf58afa86.jpg?raw=true)](https://github.com/milangeorge2000/Mammootty_Mohanlal_Classifier/blob/main/static/d3b760c1-857b-48fa-bf96-f53ef273b9c9.jpg?raw=true)
+[![](https://github.com/milangeorge2000/Ipl_Score_Prediction/blob/master/static/Screenshot%20(59).png?raw=true)](https://github.com/milangeorge2000/Mammootty_Mohanlal_Classifier/blob/main/static/d3b760c1-857b-48fa-bf96-f53ef273b9c9.jpg?raw=true)
 
 ## Overview
 This is a simple flask application which predicts the score of an ipl match when the required parameters are given as input.
