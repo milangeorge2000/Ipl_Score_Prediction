@@ -18,6 +18,7 @@
 
 
 ## Demo
+Hosted at : https://iplpredictionscore.herokuapp.com/
 [![](https://github.com/milangeorge2000/Ipl_Score_Prediction/blob/master/static/Screenshot%20(59).png?raw=true)](https://github.com/milangeorge2000/Mammootty_Mohanlal_Classifier/blob/main/static/d3b760c1-857b-48fa-bf96-f53ef273b9c9.jpg?raw=true)
 
 ## Overview
